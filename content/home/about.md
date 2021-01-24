@@ -5,7 +5,7 @@ headless: true
 weight: 20
 title: Biography
 active: true
-author: admin
+author: hong-yu
 design:
   background:
     image: ""
