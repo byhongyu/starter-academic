@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Hong Yu
+role: Member of Research Staff
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Palo Alto Research Center Inc., A Xerox Company
+    url: www.parc.com
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,8 +37,8 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
-superuser: false
+email: HYU@PARC.COM
+superuser: true
 highlight_name: false
 ---
 
